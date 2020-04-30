@@ -1,0 +1,424 @@
+/*================== xtra small device ============== */
+@media(max-width:575.98px){
+    .navbar-brand {
+        padding-top: 0;
+    }
+    .navbar-toggler{
+        border: none;
+    }
+    .navbar-toggler i{
+        color: #fff;
+        
+    
+    }
+    .navbar-collapse {
+        
+        text-align: center;
+        background: #313454;
+    }
+    .navbar-nav {
+        padding-top: 0;
+    }
+    .banner-text {
+        padding-top: 100px;
+        padding-bottom: 80px;
+        
+    }
+       
+    .banner-text h2 {
+        
+        font-size: 30px;
+        
+    }
+    .banner-text p {
+       
+        font-size: 16px;
+        padding-bottom: 10px;
+    }
+    .banner-text .btn {
+       
+        padding: 10px 30px;
+        font-size: 11px;
+        
+    }
+    #service {
+        padding-top: 70px;
+    }
+    .service-item i {
+        font-size: 40px;
+        
+    }
+    .service-item p {
+        
+        padding: 0 30px;
+        padding-bottom: 50px;
+    }
+    .test-slide {
+        padding-left: 45px;
+        padding-top: 25px;
+        padding-right: 45px;
+        
+    }
+    .test-slide .slick-dots {
+        
+        top: 86%;
+        left: 45px;
+        padding-left: 0px;
+    }
+    #download {
+        padding: 50px 0;
+    }
+    .download-text h3 {
+        
+        font-size: 22px;
+        
+    }
+    .download-text p {
+        
+        font-size: 12px;
+        
+    }
+    .download-text .btn {
+        padding: 10px 40px;
+        font-size: 11px;
+    }
+    .footer-item h3 {
+        
+        font-size: 13px;
+        
+    }
+    .footer-item p{
+        font-size: 12px;
+    }
+    .text-center {
+        
+        margin-bottom: 20px;
+    }
+    #footer {
+        
+        padding-top: 50px;
+        padding-bottom: 40px;
+    }
+    .footer-btm p {
+        
+        font-size: 11px;
+        
+    }
+    .preloader img{
+        width: 100px;
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%,-50%);
+    }
+    .back-to-top i{
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        font-size: 10px;
+        
+        
+    }
+}
+/*================== small device ============== */
+@media(min-width:576px) and (max-width:767.98px) {
+    .navbar-brand {
+        padding-top: 0;
+    }
+    .navbar-light .navbar-toggler {
+        border: none;
+    }
+    .navbar-light .navbar-toggler i {
+        color: #fff;
+    }
+    .navbar-collapse {
+        
+        text-align: center;
+        background: #313454;
+    }
+    .navbar-nav {
+        padding-top: 0;
+    }
+    .banner-text {
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+    .banner-text h2 {
+        
+        font-size: 40px;
+        
+    }
+    .banner-text p {
+        
+        font-size: 14px;
+        padding-bottom: 10px;
+    }
+    .banner-text .btn {
+        
+        padding: 10px 30px;
+        
+    }
+    .banner-text .btn {
+        
+        font-size: 11px;
+        
+    }
+    #service {
+        padding-top: 80px;
+    }
+    .service-item i {
+        font-size: 40px;
+        
+    }
+    .service-item p {
+        padding: 0 0;
+        padding-bottom: 50px;
+    }
+    .test-slide {
+        padding-left: 100px;
+        padding-top: 25px;
+        padding-right: 100px;
+        
+    }
+    .test-back p {
+        
+        font-size: 25px;
+        
+    }
+    .test-back h5 {
+        
+        font-size: 12px;
+        
+    }
+    .test-slide .slick-dots {
+        
+        top: 85%;
+        
+        padding-left: 100px;
+    }
+    #download {
+        padding: 70px 0;
+    }
+    .download-text h3 {
+        
+        font-size: 22px;
+        
+    }
+    .download-text p {
+        
+        font-size: 12px;
+        
+    }
+    .download-text .btn {
+        padding: 15px 40px;
+       
+    }
+    .download-text .btn {
+        
+        font-size: 11px;
+    }
+    .footer-item p {
+        
+        padding: 0 0px;
+        
+    }
+    .m-sm-auto {
+        margin: auto !important;
+        margin-top: 20px !important;
+    }
+    #footer {
+        
+        padding-top: 70px;
+        padding-bottom: 50px;
+    }
+    .footer-item h3 {
+        
+        font-size: 13px;
+        
+    }
+    .footer-item p {
+        
+        font-size: 11px;
+        
+    }
+    .footer-btm p {
+        
+        font-size: 12px;
+        
+    }
+    .preloader img{
+        width: 200px;
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%,-50%);
+    }
+    .back-to-top i{
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        font-size: 10px;
+        
+        
+    }
+}
+/*================== medium device ============== */
+@media(min-width:768px ) and (max-width:991.98px){
+    
+    .navbar-light .navbar-toggler {
+        border: none;
+    }
+    .navbar-light .navbar-toggler i {
+        color: #fff;
+    }
+    .navbar-collapse {
+        
+        text-align: center;
+        background: #313454;
+    }
+    .navbar-nav {
+        padding-top: 0;
+    }
+    .banner-text {
+        padding-top: 120px;
+        padding-bottom: 120px;
+    }
+    .banner-text h2 {
+        
+        font-size: 42px;
+        
+    }
+    .banner-text p {
+        
+        font-size: 18px;
+        padding-bottom: 25px;
+    }
+    .banner-text .btn {
+        
+        padding: 15px 40px;
+        font-size: 11px;
+    }
+    #service {
+        padding-top: 80px;
+    }
+    .service-item i {
+        font-size: 42px;
+        
+    }
+    .service-item h4 {
+        
+        font-size: 13px;
+        
+    }
+    .service-item p {
+       
+        font-size: 11px;
+        
+    }
+    .card-body h5 {
+        
+        font-size: 20px;
+        
+    }.card-body h6 {
+        
+        font-size: 12px;
+        
+    }
+    .card-body p {
+        
+        font-size: 12px;
+        
+    }
+    .test-slide {
+        
+        padding-top: 40px;
+        padding-right: 95px;
+        
+    }
+    .test-back p {
+        
+        font-size: 27px;
+        
+    }
+    .test-slide .slick-dots {
+        
+        top: 85%;
+        
+        padding-left: 95px;
+    }
+    #download {
+        padding: 80px 0;
+    }
+    .download-text .btn {
+        padding: 15px 50px;
+        
+        font-size: 12px;
+    }
+    #footer {
+        
+        
+        padding-bottom: 60px;
+    }
+    .footer-item p {
+        font-size: 12px;
+        padding: 0px 17px;
+        
+    }
+    .footer-btm p {
+        
+        font-size: 13px;
+        
+    }
+    .preloader img{
+        width: 200px;
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%,-50%);
+    }
+    .back-to-top i{
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        font-size: 10px;
+        
+        
+    }
+}
+/*================== large device ============== */
+@media(min-width:992px) and (max-width:1199.98px){
+    .test-slide {
+        
+        padding-top: 30px;
+        padding-right: 95px;
+        
+    }
+    .test-back p {
+        
+        font-size: 21px;
+        
+    }
+    .test-slide .slick-dots {
+       
+        top: 85%;
+        
+        padding-left: 250px;
+    }
+    .test-back h5 {
+        
+        font-size: 12px;
+        
+    }
+    .footer-item p {
+        
+        padding: 0 70px;
+        
+    }
+}
+@media(min-width:1200px) and (max-width:1229.98px){
+    .test-slide {
+        
+        padding-top: 40px;
+        
+    }
+}
